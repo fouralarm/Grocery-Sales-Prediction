@@ -9,3 +9,6 @@ Gradient Boost Regressor
 LGBM Regressor
 
 The idea is that upon entering prior-known information such as the City (of the store), the item number, whether it will be on promotion or not, whether that time will be a holiday or not, a store owner can predict the sales of a particular item and hence accordingly stock it.
+
+
+The dataset can be found at: https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting
